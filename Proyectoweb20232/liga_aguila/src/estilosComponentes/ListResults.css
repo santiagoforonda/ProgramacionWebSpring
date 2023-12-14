@@ -1,0 +1,11 @@
+.listaResultados{
+    margin-left: 45px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.contenedor-resultados{
+    display: grid;
+    grid-template-columns: repeat(2,409px);
+    grid-gap: 20px;
+}
